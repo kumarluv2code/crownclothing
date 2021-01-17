@@ -35,7 +35,7 @@ class SignIn extends React.Component{
             type='email'
             name='email'
             value={this.state.email}
-            required
+            required 
             label='email'
           />
           <FormInput

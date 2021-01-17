@@ -12,7 +12,7 @@ const config = {
     appId: "1:1029809835636:web:28e8cd491650b7f0e38b21",
     measurementId: "G-VFPTJ8Q4YE"
 };
-  
+   
 export const createUserProfileDocument = async (userAuth, additionalData) => {
     if (!userAuth) return;
 

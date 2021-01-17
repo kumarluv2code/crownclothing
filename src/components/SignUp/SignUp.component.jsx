@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react' 
 import { auth, createUserProfileDocument } from '../../firebase/firebase.util'
 import FormInput from '../form-input/form-input.component'
 import Button from '../button/button.component'
